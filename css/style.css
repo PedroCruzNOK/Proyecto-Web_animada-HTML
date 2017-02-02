@@ -10,6 +10,10 @@ img{
 .espacio-arriba{
   margin-top: 100px;
 }
+.espacio-derecha{
+  margin-right:1.5em;
+}
+
 .pacifico{
   font-family: 'Pacifico', cursive;
 }
@@ -21,4 +25,5 @@ h1{
 }
 a{
   color: #F0A647;
+  font-weight: bold;
 }
