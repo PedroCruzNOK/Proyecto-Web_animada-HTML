@@ -27,3 +27,21 @@ a{
   color: #F0A647;
   font-weight: bold;
 }
+.no-lista li{
+  list-style-type: none;
+}
+.no-lista {
+
+  margin: 0;
+  padding: 0;
+}
+.se-gris{
+  background-color: #eee;
+}
+.padding-largo{
+  padding: 5px 10px;
+}
+.inline-block{
+  display: inline-block;
+  float: none;
+}
