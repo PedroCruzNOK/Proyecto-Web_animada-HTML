@@ -23,7 +23,7 @@ img{
 h1{
   color: #637329;
 }
-a{
+a,.azul{
   color: #F0A647;
   font-weight: bold;
 }
@@ -44,4 +44,11 @@ a{
 .inline-block{
   display: inline-block;
   float: none;
+}
+.imagen{
+  width: 50%;
+  margin-left: 25%;
+}
+.block{
+  display: block;
 }
