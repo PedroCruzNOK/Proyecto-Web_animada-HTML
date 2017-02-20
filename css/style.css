@@ -20,6 +20,9 @@ img{
 .grande{
   font-size: 4em;
 }
+.mediano{
+  font-size: 1.5em;
+}
 a,.azul{
   color: #F0A647;
   font-weight: bold;
